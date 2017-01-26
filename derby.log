@@ -1,7 +1,7 @@
 ----------------------------------------------------------------
-Thu Jan 26 09:58:06 CST 2017:
-Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.1 - (1616546): instance a816c00e-0159-d87e-7f70-00002f1f6fc8 
-on database directory /home/hadoop/pythonwork/ipynotebook/metastore_db with class loader org.apache.spark.sql.hive.client.IsolatedClientLoader$$anon$1@39290557 
+Thu Jan 26 15:32:27 CST 2017:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.1 - (1616546): instance a816c00e-0159-d9b0-9d64-00003604a4b8 
+on database directory /home/hadoop/pythonwork/ipynotebook/metastore_db with class loader org.apache.spark.sql.hive.client.IsolatedClientLoader$$anon$1@57b26e99 
 Loaded from file:/usr/local/spark/jars/derby-10.11.1.1.jar
 java.vendor=Oracle Corporation
 java.runtime.version=1.8.0_91-b14
